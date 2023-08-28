@@ -9,7 +9,7 @@ Welcome to the official repository for the `JotLore-NLP` series. This repository
 
 🔗 [Setting Up the Python NLP Environment](https://www.linkedin.com/pulse/setting-up-python-nlp-environment-varghese-chacko/)
 
-🔗 [Tokenization and Stopwords]
+🔗 [Tokenization and Stopwords](https://www.linkedin.com/pulse/text-processing-basics-dive-tokenization-stopwords-varghese-chacko/)
 
 Want to dive deep into the intricacies of NLP and get hands-on with real-world examples? Follow the link above to access the detailed tutorial and enhance your understanding of Natural Language Processing.
 
