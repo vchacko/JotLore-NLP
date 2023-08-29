@@ -15,6 +15,9 @@ Welcome to the official repository for the `JotLore-NLP` series. This repository
 
 🔗 [Introduction to Linguistics in NLP](https://www.linkedin.com/pulse/introduction-linguistics-nlp-varghese-chacko)
 
+🔗 [Text Normalization: The Essential Guide to Stemming and Lemmatization](https://www.linkedin.com/pulse/text-normalization-essential-guide-stemming-varghese-chacko)
+
+
 Want to dive deep into the intricacies of NLP and get hands-on with real-world examples? Follow the link above to access the detailed tutorial and enhance your understanding of Natural Language Processing.
 
 ## Structure of the Repository 📂
