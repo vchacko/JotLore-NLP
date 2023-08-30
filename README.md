@@ -17,6 +17,7 @@ Welcome to the official repository for the `JotLore-NLP` series. This repository
 
 🔗 [Text Normalization: The Essential Guide to Stemming and Lemmatization](https://www.linkedin.com/pulse/text-normalization-essential-guide-stemming-varghese-chacko)
 
+🔗 [Basic Text Representation: Bag of Words & TF-IDF](https://www.linkedin.com/pulse/basic-text-representation-bag-words-tf-idf-varghese-chacko)
 
 Want to dive deep into the intricacies of NLP and get hands-on with real-world examples? Follow the link above to access the detailed tutorial and enhance your understanding of Natural Language Processing.
 
